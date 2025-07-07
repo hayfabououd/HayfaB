@@ -21,7 +21,7 @@ This Python script automates a full variant calling workflow from raw FASTQ read
 ## Notes
 
 > 🔹 This version of the script processes **a single sample** due to storage limitations on my HPC account.  
-> 🔹 However, the full pipeline was used to process **26 patient samples** during my Master's project.
+> 🔹 However, the full pipeline was used to process **26 patient samples** 
 
 Each step is modular and wrapped in a Python function using `subprocess`.
 
