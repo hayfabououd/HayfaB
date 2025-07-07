@@ -16,7 +16,7 @@ This Python script automates a full variant calling workflow from raw FASTQ read
 - GATK (local installation)
 - Docker
 - Reference genome: `Homo_sapiens.GRCh38.dna.primary_assembly.fa`
-- Paired-end FASTQ files (e.g., `001_R1.fastq`, `001_R2.fastq`)
+- Paired-end FASTQ files 
 
 ## Notes
 
